@@ -1,0 +1,31 @@
+.container h2 {
+    text-align: center;
+    margin: 25px auto;
+}
+
+.list {
+    text-align: left;
+    max-width: 750px;
+    margin: auto;
+}
+
+.submit-form {
+    max-width: 300px;
+    margin: auto;
+}
+
+.submit-form .button-placement {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 400px;
+}
+
+.submit-form .button-placement button {
+    margin-top: 1rem;
+}
+
+.edit-form {
+    max-width: 300px;
+    margin: auto;
+}
